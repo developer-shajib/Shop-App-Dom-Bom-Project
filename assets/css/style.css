@@ -1,0 +1,32 @@
+
+img{
+    max-width: 100%;
+}
+i{
+    pointer-events: none;
+}
+td img{
+    height: 70px;
+    width: 70px;
+    border-radius: 4px;
+}
+
+.shop-data tr{
+    vertical-align: middle;   
+}
+#shop_single_modal img{
+    height: auto;
+    width: 300px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+#shop_edit_modal img{
+    height: 250px;
+    width: 70%;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+
+
+}
